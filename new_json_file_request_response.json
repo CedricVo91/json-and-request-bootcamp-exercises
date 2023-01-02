@@ -1,0 +1,40 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 2381,
+      "user": {
+        "id": 26,
+        "email": "python@propulsionacademy.com",
+        "first_name": "Albin",
+        "last_name": "Plathottathil",
+        "username": "python_course",
+        "job": "",
+        "avatar": null,
+        "banner": null,
+        "location": "",
+        "about_me": "",
+        "things_user_likes": [],
+        "logged_in_user_is_following": false,
+        "logged_in_user_is_friends": false,
+        "logged_in_user_is_rejected": false,
+        "logged_in_user_received_fr": false,
+        "logged_in_user_sent_fr": false,
+        "amount_of_posts": 1,
+        "amount_of_likes": 0,
+        "amount_of_friends": 7,
+        "amount_of_followers": 0,
+        "amount_following": 0
+      },
+      "images": [],
+      "logged_in_user_liked": false,
+      "is_from_logged_in_user": true,
+      "amount_of_likes": 0,
+      "shared": null,
+      "content": "Post created with the request module by xxx",
+      "created": "2022-09-03T21:02:24.958442+02:00"
+    }
+  ]
+}
